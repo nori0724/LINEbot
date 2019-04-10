@@ -281,5 +281,3 @@ function find_time(type,name, dat, lastRow, lastColumn){
     }
   }
 }
-
-
